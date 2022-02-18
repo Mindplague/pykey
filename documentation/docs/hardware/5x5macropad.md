@@ -19,6 +19,10 @@ Buy it on [Tindie](https://www.tindie.com/products/jpconstantineau/raspberry-pi-
 
 ## Firmware
 
+You need to download the Adafruit CircuitPython Bundle 7.x from the CircuitPython Libraries page.
+
+Uncompress it and copy the library called adafruit_hid (folder) and the neopixel.mpy (file) to the lib folder of your macropad.
+
 ## Pinout
 
 ## PCB
